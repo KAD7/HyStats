@@ -1,0 +1,44 @@
+HyStats EULA
+Last updated: May 03, 2019
+
+1. INTRODUCTION
+This is an End User License Agreement. To use, modify, distribute the HyStats Mod must comply with the conditions
+set out in this EULA.
+
+2. DEFINITIONS
+Mod - refers to HyStats (as is, the .jar file) software, created by KAD7.
+Author - the creator of this mod, KAD7.
+Use - using this mod with the Forge client.
+User - the person who uses the mod.
+
+3. USAGE
+This mod is intended to be used with the Forge Minecraft client and on the Minecraft server, Hypixel Network
+
+4. MODIFICATION
+The user is allowed to decompile and modify the software for personal use only. Any modified version of this mod,
+HyStats cannot be redistributed or shared. See section 5 regarding redistrubtion for more information.
+
+5. REDISTRIBUTION
+Any modified version of this mod modified by the user is not allowed to be distributed under any circumstances.
+This mod, as is, may not be distributed to other people without consent from the author of this mod. This mod 
+may not be distributed commerically in any circumstance.
+
+6. WARRANTY
+KAD7, the author of this mod, is not responsible or liable for any harm or damage caused to an individual or computer
+system as a result of using this software. The author is not obligated to fix any bug or errors that are found in
+this mod.
+
+7. DISCLAIMERS
+This mod is not affilated with the videogame Minecraft or any of the corporate entities that follow: Mojang, 
+Microsoft, Hypixel Network
+
+This software incorporates JFreeChart, (C)opyright 2000-2004 by Object Refinery Limited and Contributors.
+JFreeChart is covered by the Lesser General Public License, which is included and can be viewed in this mod's .jar file.
+The source code of the version of the JFreeChart library used in this software can be viewed in the following link:
+source code of the library used in this mod can be viewed here: https://github.com/KAD7/HyStats/tree/master/jfreechart-1.0.12/
+
+8. FINAL REMARKS
+This is a poorly written EULA, I know, however, please adhere to all terms set out in this license.
+For any concerns, please email me at kad7minecraft@gmail.com
+
+
